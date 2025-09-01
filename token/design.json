@@ -1,1 +1,11 @@
+{
+  "global": {
+    "colors": {
+      "primary": {
+        "value": "#000000",
+        "type": "color"
+      }
+    }
+  }
+}
 
